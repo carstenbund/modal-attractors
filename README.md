@@ -46,7 +46,7 @@ States are classified by comparing the normalized energy distribution to learned
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/modal-attractors.git
+git clone https://github.com/carstenbund/modal-attractors.git
 cd modal-attractors
 pip install -r requirements.txt
 ```
@@ -169,7 +169,7 @@ If you use this code in your research, please cite:
 @software{modal_attractors,
   title = {Modal Attractors: Geometry-Stabilized Spectral States in Coupled Oscillator Networks},
   year = {2025},
-  url = {https://github.com/yourusername/modal-attractors}
+  url = {https://github.com/carstenbund/modal-attractors}
 }
 ```
 
